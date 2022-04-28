@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sathishkumar
+- 👋 Hi, I’m Sathishkumar R
 - 👀 I’m interested in GoLang, JavaScript and DevOps
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on DevOps and Product development
